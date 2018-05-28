@@ -7,3 +7,7 @@ some useful files for setting up work environment.
 - [vim-colours-solarised](https://github.com/altercation/vim-colors-solarized)
 
 # Oh My Zsh ([download](https://github.com/robbyrussell/oh-my-zsh))
+- [zsh-completions](https://github.com/zsh-users/zsh-completions)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
+- [history-substring-search](https://github.com/zsh-users/zsh-history-substring-search)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
