@@ -5,3 +5,5 @@ some useful files for setting up work environment.
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
 - [vim-fugitive](https://github.com/tpope/vim-fugitive)
 - [vim-colours-solarised](https://github.com/altercation/vim-colors-solarized)
+
+# Oh My Zsh ([download](https://github.com/robbyrussell/oh-my-zsh))
