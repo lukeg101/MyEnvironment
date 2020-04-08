@@ -148,7 +148,7 @@ alias pbpaste='xclip -selection clipboard -o'
 setxkbmap -layout us
 
 # Improved GNU less functionality
-export LESS='-F -i -J -M -R -W -x4 -z-4'
+export LESS='-i -J -M -R -W -x4 -z-4'
 
 # Tmux aliases
 alias tma='tmux attach -t'
