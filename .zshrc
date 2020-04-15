@@ -151,7 +151,7 @@ setxkbmap -layout us
 export LESS='-i -J -M -R -W -x4 -z-4'
 
 # Tmux aliases
-alias tma='tmux attach -t'
+alias tma='tmux attach -dt'
 alias tmn='tmux new -s'
 alias tml='tmux ls'
 
