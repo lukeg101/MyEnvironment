@@ -23,6 +23,11 @@ If you happen to use windows remotely, and want to retain something similar to w
 - Download a powerline font of your choice [here](https://github.com/powerline/fonts), and install the `ttf` file, then install in Window > Appearance. I'm Currently trying out source code pro light for powerline.
 - Save this config in the Session tab for reuse
 
+# Mosh Shell Configuration
+If you happen to work remotely with a poor network connection, this shell is good for automatically reconnecting. It mostly works out of the box, with the following changes.
+- Set the colourscheme to solarised dark using [this](https://gist.github.com/organisciak/2d2a8c201c235c33102b) guide.
+- Assuming you have a font installed, in Preferences you should be able to set the font as e.g "Source Code Pro for Powerline"
+
 # Colorscheme - Solarised Dark
 This is easy on the eyes, the pygmalion theme used by oh my zsh uses [this](https://ethanschoonover.com/solarized/) too.
 - The vim guide for the colorscheme is above
